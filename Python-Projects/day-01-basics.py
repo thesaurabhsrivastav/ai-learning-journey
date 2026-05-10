@@ -1,0 +1,6 @@
+name = input("Hey, What's Your Name: ")
+food = input("May I know your Fav Food? : ")
+dream_company = input("And what is your dream company? : ")
+print("Hello,",name)
+print("I also love eating,",food)
+print(dream_company,"That's a great choice")
