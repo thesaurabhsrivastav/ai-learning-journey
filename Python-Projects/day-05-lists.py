@@ -12,3 +12,17 @@ numbers = [1, 2, 3]
 numbers.append(4)
 
 print(numbers)
+
+#Add at specific index
+numbers.insert(1, 100)
+numbers.remove(2) #Remove by Value
+numbers.pop(1) #Remove By Pop
+
+numbers = [10, 20, 30]
+#Loop in Lists
+for num in numbers:
+    print(num)
+
+fruits = ["apple", "banana"]
+
+print("apple" in fruits)
